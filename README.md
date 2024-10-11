@@ -4,7 +4,8 @@
 
 This project involves analyzing taxi trip data to gain insights into fare amounts, payment methods, and passenger counts. The primary goal is to understand the factors influencing fare amounts and the distribution of payment types among different passenger counts. This analysis will help taxi service providers optimize their services and pricing strategies.
 
-## Dataset
+## Dataset 
+Get the dataset here: https://catalog.data.gov/dataset/2020-yellow-taxi-trip-data-january-june
 
 The dataset used for this analysis is sourced from a CSV file named `taxi_trip.csv`, which contains the following key columns:
 
