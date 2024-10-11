@@ -1,7 +1,5 @@
 # Maximizing Revenue for Taxi Drivers through Payment Type Analysis
 
-# Taxi Trip Data Analysis
-
 ## Project Overview
 
 This project involves analyzing taxi trip data to gain insights into fare amounts, payment methods, and passenger counts. The primary goal is to understand the factors influencing fare amounts and the distribution of payment types among different passenger counts. This analysis will help taxi service providers optimize their services and pricing strategies.
